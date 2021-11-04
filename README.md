@@ -1,8 +1,8 @@
 # newbies-start-here
-howdy howdy new roboticeers this is definitely the first repository named this
+howdy howdy new rarbots!
 
 
-Alright, so you want to code? Epiccccc!
+so you want to code? Epiccccc!
 
 
 Basically until I can figure out how to get of my 3-5 class at college this is the best I can do, but hopefully it will at least give an idea
